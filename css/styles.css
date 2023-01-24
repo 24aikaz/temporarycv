@@ -1,39 +1,38 @@
 body {
-    background-color: #b474ec;
+    background-color: #e6cdfd;
 }
 hr{
     border-style: none;
     border-top-style: double;
-    border-color: #c92d9ab0;
+    border-color: aliceblue;
     border-width: 7px;
     width: 7%;
 }
 h1{
-    color: #48d3ce;
+    color: #00cac3;
     font-family: system-ui;
 }
 h2{
-    color: #3f1c9e;
+    color: #1246d3;
     font-family: system-ui;
 }
 h3{
-    color: #3f1c9e;
+    color: #1246d3;
     font-family: system-ui;
 }
 p{
-    color: aliceblue;
+    color: #c92d9ab0;
     font-family: system-ui;
 }
 table{
-    color: aliceblue;
+    color: #c92d9ab0;
     font-family: monospace;
 }
 ul{
-    color: aliceblue;
+    color: #c92d9ab0;
     font-family: system-ui;
 }
 ol{
-    color: aliceblue;
+    color: #c92d9ab0;
     font-family: system-ui;
 }
-
