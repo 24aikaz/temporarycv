@@ -1,0 +1,39 @@
+body {
+    background-color: #b474ec;
+}
+hr{
+    border-style: none;
+    border-top-style: double;
+    border-color: #c92d9ab0;
+    border-width: 7px;
+    width: 7%;
+}
+h1{
+    color: #48d3ce;
+    font-family: system-ui;
+}
+h2{
+    color: #3f1c9e;
+    font-family: system-ui;
+}
+h3{
+    color: #3f1c9e;
+    font-family: system-ui;
+}
+p{
+    color: aliceblue;
+    font-family: system-ui;
+}
+table{
+    color: aliceblue;
+    font-family: monospace;
+}
+ul{
+    color: aliceblue;
+    font-family: system-ui;
+}
+ol{
+    color: aliceblue;
+    font-family: system-ui;
+}
+
